@@ -6,7 +6,7 @@ Milestone is a role-based portal for quarterly goal planning and tracking:
 - **Admins:** manage cycles/users and view reporting/export insights
 
 ## Project link
-- Live app link: https://goal-setting-and-tracking-portal-mi-psi.vercel.app/
+- Live app link: https://milestonegoalsettingportal.vercel.app/
 
 ## Tech stack
 - **Frontend:** React 18 + Vite + TailwindCSS
