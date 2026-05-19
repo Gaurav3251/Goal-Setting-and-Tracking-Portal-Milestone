@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: goal-tracker-api
+    env: node
+    region: oregon
+    plan: free
+    buildCommand: npm install
+    startCommand: node src/app.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: CLERK_SECRET_KEY
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false
+      - key: FRONTEND_URL
+        sync: false

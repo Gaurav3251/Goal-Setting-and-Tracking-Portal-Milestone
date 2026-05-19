@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "dsznajder.es7-react-js-snippets",
+    "ms-vscode.vscode-json",
+    "christian-kohler.path-intellisense",
+    "formulahendry.auto-rename-tag",
+    "mikestead.dotenv",
+    "eamodio.gitlens",
+    "ms-azuretools.vscode-docker"
+  ]
+}
