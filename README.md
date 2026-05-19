@@ -5,6 +5,8 @@ Milestone is a role-based portal for quarterly goal planning and tracking:
 - **Managers:** review/approve goals and monitor progress
 - **Admins:** manage cycles/users and view reporting/export insights
 
+## Project link
+- Repository: (add your link)
 
 ## Tech stack
 - **Frontend:** React 18 + Vite + TailwindCSS
